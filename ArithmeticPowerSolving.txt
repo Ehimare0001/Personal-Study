@@ -1,0 +1,17 @@
+public class ArithmeticPowerSolving{  
+	public static void main(String[]args){
+	
+	
+	double result = Math.power(5, 2);
+	
+	System.out.println(result);
+	
+	
+	
+	}
+
+
+
+
+}
+
